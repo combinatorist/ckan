@@ -30,7 +30,7 @@ be vocabularies and the values would be tags:
 
   - Tag: Tchaikovsky
 
-Ofcourse, you could just add Avant-Garde, Beethoven, etc. to datasets as normal
+Of course, you could just add Avant-Garde, Beethoven, etc. to datasets as normal
 CKAN tags, but using tag vocabularies lets you define Avant-Garde, Country and
 Jazz as genres and Beethoven, Wagner and Tchaikovsky as composers, and lets you
 enforce restrictions such as that each dataset must have a genre and a
